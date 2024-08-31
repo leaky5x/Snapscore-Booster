@@ -1,0 +1,3 @@
+﻿  entry.cpp
+C:\Users\Brison\source\repos\Snapchat Booster\Snapchat Booster\booster.h(70,1): warning C4717: 'booster::start_boost_no_arrow': recursive on all control paths, function will cause runtime stack overflow
+  Snapchat Booster.vcxproj -> C:\Users\Brison\source\repos\Snapchat Booster\x64\Debug\Snapchat Booster.exe
